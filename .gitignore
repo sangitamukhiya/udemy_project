@@ -1,1 +1,10 @@
 node_modules
+
+
+
+ //extract id from req.params
+  //extract new values from req.body
+  //find student by id
+  //if not student, throw error
+  //edit student
+  //send response
